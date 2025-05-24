@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stayspace**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://prasant-portfolio.netlify.app/](https://prasant-portfolio.netlify.app/)
 
